@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beauty-price-finder/static/css/main.e6c13ad2.css",
+    "main.js": "/beauty-price-finder/static/js/main.e8db7062.js",
+    "static/js/453.a56deb19.chunk.js": "/beauty-price-finder/static/js/453.a56deb19.chunk.js",
+    "index.html": "/beauty-price-finder/index.html",
+    "main.e6c13ad2.css.map": "/beauty-price-finder/static/css/main.e6c13ad2.css.map",
+    "main.e8db7062.js.map": "/beauty-price-finder/static/js/main.e8db7062.js.map",
+    "453.a56deb19.chunk.js.map": "/beauty-price-finder/static/js/453.a56deb19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e8db7062.js"
+  ]
+}
